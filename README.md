@@ -1,4 +1,4 @@
-This project is created using AWS amplify to demonstrate 
+This project is created using AWS amplify to demonstrate a Git-based CI/CD workflow for building, deploying, and hosting single page web applications 
 
 
 
